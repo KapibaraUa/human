@@ -1,6 +1,7 @@
 ﻿
 
 #include <iostream>
+#include "Human.h"
 using namespace std;
 int main()
 {
